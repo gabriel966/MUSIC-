@@ -1,19 +1,7 @@
-# Packages
-node_modules/
-
-# Log files
-logs/
-*.log
-npm-debug.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-
-# Env
-.env
-
-# Miscellaneous
-.tmp/
-.github/
+/nbproject/
+/target/
+/Playlists/
+/test/
+*.json
+*.txt
+nb*.xml
